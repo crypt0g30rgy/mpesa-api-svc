@@ -1,0 +1,4 @@
+nest generate module mpesa
+nest generate controller mpesa
+nest generate service mpesa
+nest g resource products
